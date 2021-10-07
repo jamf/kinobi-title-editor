@@ -2,7 +2,7 @@
 
 ## Download Patch Source
 
-This is a tool to download custom Patch Definitions from a Patch External Source, for import into Title Editor
+This is a tool to download custom Patch Definitions from a Patch External Source, for import into Title Editor.
 
 ## Using This Script
 
